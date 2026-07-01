@@ -2,6 +2,7 @@ backend:
   name: github
   repo: sv-haimbach-rodges/webseite
   branch: main
+  app_id: Ov23liQlXTnDVLLHY2Ez
 
 media_folder: "static/img"
 public_folder: "/img"
