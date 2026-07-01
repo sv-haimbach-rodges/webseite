@@ -1,5 +1,5 @@
 baseURL = 'https://sv-haimbach-rodges.de'
-languageCode = 'de-DE'
+locale = 'de-DE'
 title = 'Schützenverein Gut Schuß Haimbach/Rodges'
 theme = 'hugo-universal-theme'
 
@@ -110,7 +110,7 @@ pagerSize = 10
       unsafe = true
       
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/:year/:month/:day/:contentbasename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
