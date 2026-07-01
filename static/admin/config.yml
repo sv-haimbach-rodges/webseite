@@ -1,0 +1,84 @@
+backend:
+  name: github
+  repo: sv-haimbach-rodges/webseite
+  branch: main
+
+media_folder: "static/img"
+public_folder: "/img"
+
+collections:
+  - name: "blog"
+    label: "Aktuelles"
+    folder: "content/blog"
+    create: true
+    extension: "md"
+    format: "toml-frontmatter"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
+      - {label: "Banner Bild", name: "banner", widget: "image", required: false}
+      - {label: "Inhalt", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Seiten"
+    files:
+      - label: "Kontakt"
+        name: "contact"
+        file: "content/contact.md"
+        extension: "md"
+        format: "toml-frontmatter"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
+          - {label: "Layout", name: "layout", widget: "string", default: "contact"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
+      - label: "Historie"
+        name: "historie"
+        file: "content/historie.md"
+        extension: "md"
+        format: "toml-frontmatter"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
+      - label: "Links"
+        name: "links"
+        file: "content/links.md"
+        extension: "md"
+        format: "toml-frontmatter"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
+      - label: "Bilder"
+        name: "gallery"
+        file: "content/gallery/_index.md"
+        extension: "md"
+        format: "toml-frontmatter"
+        fields:
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
+          - {label: "Galerie Ordner", name: "gallery_dir", widget: "string", default: "/img/album"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
+  - name: "carousel"
+    label: "Startseite Karussell"
+    folder: "data/carousel"
+    create: true
+    extension: "yaml"
+    format: "yaml"
+    fields:
+      - {label: "Gewichtung", name: "weight", widget: "number"}
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Beschreibung", name: "description", widget: "text", required: false}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Rahmen", name: "frame", widget: "boolean", default: false}
+  - name: "features"
+    label: "Startseite Features"
+    folder: "data/features"
+    create: true
+    extension: "yaml"
+    format: "yaml"
+    fields:
+      - {label: "Gewichtung", name: "weight", widget: "number"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Icon (FontAwesome)", name: "icon", widget: "string"}
+      - {label: "URL", name: "url", widget: "string", required: false}
+      - {label: "Beschreibung", name: "description", widget: "text"}
