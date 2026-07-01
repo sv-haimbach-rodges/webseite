@@ -2,7 +2,7 @@
 title = 'Schützenfest 2024 - Wieder gut besucht'
 date = 2024-07-07T12:00:00+01:00
 draft = false
-banner = "/img/album/2024/Schützenfest/Fest3.jpg"
+banner = "img/album/2024/Schützenfest/Fest3.jpg"
 +++
 
 Unser Schützenfest am 16. Juni war wieder ein gut besuchtes Fest.
@@ -21,4 +21,4 @@ Jugendkönig: **Jannes Hartung**
 
 _Herzlichen Glückwunsch!_
 
-{{< images "/img/album/2024/Schützenfest/Fest1.jpg" "/img/album/2024/Schützenfest/Fest2.jpg" "/img/album/2024/Schützenfest/Fest3.jpg" "/img/album/2024/Schützenfest/Fest4.jpg" "/img/album/2024/Schützenfest/Fest5.jpg" "/img/album/2024/Schützenfest/Fest6.jpg">}}
+{{< images "img/album/2024/Schützenfest/Fest1.jpg" "img/album/2024/Schützenfest/Fest2.jpg" "img/album/2024/Schützenfest/Fest3.jpg" "img/album/2024/Schützenfest/Fest4.jpg" "img/album/2024/Schützenfest/Fest5.jpg" "img/album/2024/Schützenfest/Fest6.jpg">}}

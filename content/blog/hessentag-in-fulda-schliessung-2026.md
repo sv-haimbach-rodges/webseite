@@ -2,7 +2,7 @@
 title = 'Hessentag in Fulda: Schließung'
 date = 2026-06-01T01:00:00+01:00
 draft = false
-banner = "/img/default/Hessentag-Logo_4c.jpg"
+banner = "img/default/Hessentag-Logo_4c.jpg"
 +++
 
 Wir freuen uns darauf, dass der Hessentag vom 12. bis zum 21. Juni 2026 in unserer schönen Barockstadt Fulda stattfindet! Mit über 1200 Veranstaltungen erwartet uns ein buntes und vielfältiges Programm.

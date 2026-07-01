@@ -14,4 +14,4 @@ Start ist am __09.10.2024__ mit einem Auswärtskampf in Eichenzell und abgeschlo
 
 Alle Mannschafts- und Einzelergebnisse, beste Schützen und Tabellen sind wie immer unter der [Website des Schützenkreises 27 Fulda-Rhön](https://www.rwk-onlinemelder.de/online/listen/hsvsb27?sel_group_id=31&sel_discipline_id=4&sel_class_id=17&sel_list_type=competitionSchedule&sel_turn_date=&showCombined=0) abrufbar.
 
-{{< images "/img/album/2024/Rundenwettkampfsaison/Wettkampfplan_S.1.jpg|Wettkampfplan S1" "/img/album/2024/Rundenwettkampfsaison/Wettkampfplan_S.2.jpg|Wettkampfplan S2">}}
+{{< images "img/album/2024/Rundenwettkampfsaison/Wettkampfplan_S.1.jpg|Wettkampfplan S1" "img/album/2024/Rundenwettkampfsaison/Wettkampfplan_S.2.jpg|Wettkampfplan S2">}}

@@ -10,4 +10,4 @@ Am 08.12.23 hatten wir zu einem Glühweinabend zum Jahresabschluss 2023 in bzw. 
 
 Zahlreiche Mitglieder waren unserer Einladung gefolgt und bei heißen Getränken und Grillwürstchen verbrachten wir einen gemütlichen vorweihnachtlichen Abend.
 
-{{< images "/img/album/2023/1-Glühweinabend-2023.png|Glühweinabend `23" >}}
+{{< images "img/album/2023/1-Glühweinabend-2023.png|Glühweinabend `23" >}}

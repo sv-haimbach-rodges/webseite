@@ -2,7 +2,7 @@
 title = 'Schützenfest am 17. Juli 2022 wieder ein schöner Erfolg'
 date = 2022-07-18T14:05:00+01:00
 draft = false
-banner = "/img/album/2022/Königsfamilie 2022: Gertrud Engel, Thomas Hartung, Torsten Renz, Florian Ruppel, Mira Müller, Lukas Knobloch.jpg"
+banner = "img/album/2022/Königsfamilie 2022: Gertrud Engel, Thomas Hartung, Torsten Renz, Florian Ruppel, Mira Müller, Lukas Knobloch.jpg"
 +++
 
 Gut besucht war das diesjährige Schützenfest, dass nach coronabedingter 2-Jahrespause am 17.07.2022 wieder durchgeführt werden konnte. Bei strahlendem Sonnenschein hatten sich zahlreiche Gäste eingefunden, die der Proklamation der neuen Königsfamilie beiwohnten und auch selbst die Freude am Schießsport kennenlernen konnten.
@@ -23,4 +23,4 @@ Jugendschützenkönigin: **Mira Müller**
 
 _Herzlichen Glückwunsch!_
 
-{{< images "/img/album/2022/Königsfamilie 2022: Gertrud Engel, Thomas Hartung, Torsten Renz, Florian Ruppel, Mira Müller, Lukas Knobloch.jpg|Gesamte Königsfamilie" "/img/album/2022/Schützenfest-Bild1_Königsfamilie.jpg|Königsfamilie" "/img/album/2022/Schützenfest-Bild2_Jugendkönigsfamilie.jpg|Jugendkönigsfamilie" "/img/album/2022/Schützenfest-Bild3_Sieger Preisschießen.jpg|Sieger Presschießen" "/img/album/2022/Schützenfest-Bild4_Besucher.jpg|Besucher" "/img/album/2022/Schützenfest-Bild5-Schießstand.jpg|Schießstand">}}
+{{< images "img/album/2022/Königsfamilie 2022: Gertrud Engel, Thomas Hartung, Torsten Renz, Florian Ruppel, Mira Müller, Lukas Knobloch.jpg|Gesamte Königsfamilie" "img/album/2022/Schützenfest-Bild1_Königsfamilie.jpg|Königsfamilie" "img/album/2022/Schützenfest-Bild2_Jugendkönigsfamilie.jpg|Jugendkönigsfamilie" "img/album/2022/Schützenfest-Bild3_Sieger Preisschießen.jpg|Sieger Presschießen" "img/album/2022/Schützenfest-Bild4_Besucher.jpg|Besucher" "img/album/2022/Schützenfest-Bild5-Schießstand.jpg|Schießstand">}}

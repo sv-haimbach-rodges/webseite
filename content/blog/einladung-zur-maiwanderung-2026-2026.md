@@ -2,7 +2,7 @@
 title = 'Einladung zur Maiwanderung 2026'
 date = 2026-04-22T12:00:00+01:00
 draft = false
-banner = "/img/blog/upload-1776883995.png"
+banner = "img/blog/upload-1776883995.png"
 banner_attribution = "https://commons.wikimedia.org/wiki/File:Fulda-Stadtschloss.png"
 +++
 

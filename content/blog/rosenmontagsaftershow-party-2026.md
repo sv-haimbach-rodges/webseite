@@ -2,7 +2,7 @@
 title = 'Rosenmontag-Aftershow-Party'
 date = 2026-02-03T12:00:00+01:00
 draft = false
-banner = "/img/default/luftschlangen.jpg"
+banner = "img/default/luftschlangen.jpg"
 banner_attribution = "https://pixabay.com/de/photos/luftschlangen-konfetti-fasnacht-1194567/"
 +++
 

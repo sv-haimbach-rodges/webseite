@@ -2,7 +2,7 @@
 title = 'Sommerpause: 29.06. bis 13.08.'
 date = 2026-06-01T01:00:00+01:00
 draft = false
-banner = "/img/default/sommer.jpg"
+banner = "img/default/sommer.jpg"
 banner_attribution = "https://unsplash.com/de/fotos/black-ray-ban-wayfarer-sunglasses-on-beach-sand-SYx3UCHZJlo"
 +++
 

@@ -10,4 +10,4 @@ Einen sensationellen 5. Platz erzielte Steffen Uth beim Bezirkskönigsschießen 
 
 Herzlichen Glückwunsch!
 
-{{< images "/img/album/2019/Ergebnisse_Kö.-Schiessen1.JPG|Ergebnisse 1" "/img/album/2019/Ergebnisse_Kö.-Schiessen2.JPG|Ergebnisse 2">}}
+{{< images "img/album/2019/Ergebnisse_Kö.-Schiessen1.JPG|Ergebnisse 1" "img/album/2019/Ergebnisse_Kö.-Schiessen2.JPG|Ergebnisse 2">}}

@@ -2,7 +2,7 @@
 title = 'Königsschießen und Siggi-Brandt-Gedächtnispokal-schießen 2026'
 date = 2026-02-03T12:00:00+01:00
 draft = false
-banner = "/img/default/zielscheibe.jpg"
+banner = "img/default/zielscheibe.jpg"
 banner_attribution = "https://unsplash.com/de/fotos/ein-blatt-papier-mit-einem-bild-darauf-NKo_ZNNx3uM"
 +++
 

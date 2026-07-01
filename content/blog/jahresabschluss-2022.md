@@ -2,7 +2,7 @@
 title = 'Jahresabschluss 2022'
 date = 2022-12-18T12:30:00+01:00
 draft = false
-banner = "/img/default/gluehwein2.jpg"
+banner = "img/default/gluehwein2.jpg"
 banner_attribution = "https://pixabay.com/de/photos/gl%C3%BChwein-wein-getr%C3%A4nk-alkoholisch-2963602/"
 +++
 

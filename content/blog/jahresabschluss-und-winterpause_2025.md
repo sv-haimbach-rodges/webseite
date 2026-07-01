@@ -2,7 +2,7 @@
 title = 'Jahresabschluss und Winterpause'
 date = 2025-11-23T12:00:00+01:00
 draft = false
-banner = "/img/default/gluehwein.jpg"
+banner = "img/default/gluehwein.jpg"
 banner_attribution = "https://pixabay.com/de/photos/winter-schnee-kalt-tee-wein-4606871/"
 +++
 
@@ -18,4 +18,4 @@ Wie gewohnt haben wir für euch unseren Weihnachtsflyer vorbereitet, den ihr unt
 
 Wir wünschen euch allen eine besinnliche Adventszeit, frohe Weihnachten und einen guten Rutsch ins neue Jahr!
 
-{{< images "/img/album/2025/Weihnachtsflyer-Aussenseite2025.jpg|Weihnachtsflyer 1" "/img/album/2025/Weihnachtsflyer-Innenseite2025.jpg|Weihnachtsflyer 2">}}
+{{< images "img/album/2025/Weihnachtsflyer-Aussenseite2025.jpg|Weihnachtsflyer 1" "img/album/2025/Weihnachtsflyer-Innenseite2025.jpg|Weihnachtsflyer 2">}}

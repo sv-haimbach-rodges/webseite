@@ -11,7 +11,7 @@ Letzter Schießtag ist somit der 13.12.2024 und 1. Schießtag im neuen Jahr ist 
 
 Wir wünschen allen Mitgliedern und ihren Familien frohe und gesegnete Weihnachten und alles Gute für das neue Jahr 2025.
 
-{{< images "/img/album/2024/Weihnachtsflyer-Aussenseite2024.jpg|Weihnachtsflyer 1" "/img/album/2024/Weihnachtsflyer-Innenseite2024.png|Weihnachtsflyer 2">}}
+{{< images "img/album/2024/Weihnachtsflyer-Aussenseite2024.jpg|Weihnachtsflyer 1" "img/album/2024/Weihnachtsflyer-Innenseite2024.png|Weihnachtsflyer 2">}}
 
 #### Kommende Termine
 |Datum | Veranstaltung |

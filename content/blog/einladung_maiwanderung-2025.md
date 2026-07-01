@@ -2,7 +2,7 @@
 title = 'Vorankündigung: Maiwanderung 2025'
 date = 2025-03-15T09:00:02+01:00
 draft = false
-banner = "/img/default/wald.jpg"
+banner = "img/default/wald.jpg"
 banner_attribution = "https://pixabay.com/de/photos/wald-j%C3%A4ger-h%C3%BCtte-w%C3%A4lder-jagd-2316514/"
 +++
 

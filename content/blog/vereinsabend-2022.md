@@ -2,7 +2,7 @@
 title = 'Vereinsabend am 21.10.2022'
 date = 2022-11-22T17:11:00+01:00
 draft = false
-banner = "/img/default/grillen.jpg"
+banner = "img/default/grillen.jpg"
 banner_attribution = "https://pixabay.com/de/photos/grill-grillen-fleisch-grillgut-2377860/"
 +++
 

@@ -2,7 +2,7 @@
 title = 'Sommerpause: 04.07. bis 21.08.'
 date = 2025-06-01T12:00:00+01:00
 draft = false
-banner = "/img/default/sommer.jpg"
+banner = "img/default/sommer.jpg"
 banner_attribution = "https://unsplash.com/de/fotos/black-ray-ban-wayfarer-sunglasses-on-beach-sand-SYx3UCHZJlo"
 +++
 

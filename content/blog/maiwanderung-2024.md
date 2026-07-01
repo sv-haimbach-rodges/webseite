@@ -2,7 +2,7 @@
 title = 'Maiwanderung am 05. Mai 2024'
 date = 2024-05-23T12:00:00+01:00
 draft = false
-banner = "/img/album/2024/Maiwanderung/Maiwanderung24-banner.jpg"
+banner = "img/album/2024/Maiwanderung/Maiwanderung24-banner.jpg"
 +++
 
 Am Sonntag, dem 05. Mai 2024, fand die diesjährige Maiwanderung statt.
@@ -13,4 +13,4 @@ Dort erwartete alle ein von der Jugendherberge organisiertes Grillbuffet mit ver
 
 Zu Fuß ging es anschließend wieder zurück ins Schützenhaus, wo alle den Nachmittag mit Kaffee und hausgemachtem Kuchen ausklingen ließen.
 
-{{< images "/img/album/2024/Maiwanderung/Maiwanderung24.jpg|Maiwanderung 1" "/img/album/2024/Maiwanderung/Maiwanderung24-2.jpg|Maiwanderung 2">}}
+{{< images "img/album/2024/Maiwanderung/Maiwanderung24.jpg|Maiwanderung 1" "img/album/2024/Maiwanderung/Maiwanderung24-2.jpg|Maiwanderung 2">}}

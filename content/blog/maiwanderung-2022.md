@@ -2,7 +2,7 @@
 title = 'Maiwanderung am 08. Mai 2022'
 date = 2022-05-22T14:05:00+01:00
 draft = false
-banner = "/img/default/wald.jpg"
+banner = "img/default/wald.jpg"
 banner_attribution = "https://pixabay.com/de/photos/wald-j%C3%A4ger-h%C3%BCtte-w%C3%A4lder-jagd-2316514/"
 +++
 

@@ -26,5 +26,5 @@ __Ab 12:00 Uhr werden Speisen frisch aus dem Food Truck des Fuldaer Hofs angebot
 
 <br/>
 
-{{< images "/img/album/2024/LAY01_A3_Plakat_Schuetzenfest_2024.png|Flyer">}}
+{{< images "img/album/2024/LAY01_A3_Plakat_Schuetzenfest_2024.png|Flyer">}}
 

@@ -22,7 +22,7 @@ Man skizziert erste Entwürfe einer Vereinssatzung, sucht nach einem Namen und d
 
 Als man sich später am Abend trennt, wird  sich zu einem neuen Treffen am Freitag, 14.02.86 verabredet.
 
-{{< images "/img/album/1986/Gründungsprotokoll.jpg" "/img/album/1986/Speisekarte.jpg" >}}
+{{< images "img/album/1986/Gründungsprotokoll.jpg" "img/album/1986/Speisekarte.jpg" >}}
 
 #### Freitag, 14. Februar 1986
 Haben den ein oder anderen noch leise Zweifel geplagt, ob wohl alle zu diesem Treffen erscheinen würden, wurden sie schnell begraben, als sich um 20.00 Uhr in der Gaststätte „Goldener Stern“ neben den erwähnten fünf Ehepaaren noch weitere Schießsportbegeisterte einfinden. 
@@ -78,7 +78,7 @@ Am 18. Oktober 1986 fand die offizielle Gründungsfeier in unserem Vereinslokal 
 
 Eine Woche zuvor war die Schießanlage bereits durch den neuen kath. Pfarrer von Haimbach, Werner Schräder, mit den Messdienern Christian Bosold und Daniel Schneider gesegnet worden.
 
-{{< images "/img/album/1986/segnung.jpg|Segnung mit Pfarrer Schräder und Messdienern Daniel Schneider und Christian Bosold" >}}
+{{< images "img/album/1986/segnung.jpg|Segnung mit Pfarrer Schräder und Messdienern Daniel Schneider und Christian Bosold" >}}
 
 
 ### 1987
@@ -92,7 +92,7 @@ Das Fest fand bei der Bevölkerung großen Anklang und auch bei den Schützenver
 Erste Kontakte zu einem Patenverein nach Pleidelsheim in Baden – Württemberg wurden aufgenommen. 
 Unser Mitglied Harald Goller legte dazu den Grundstein.
 
-{{< images "/img/album/1987/königsfamilie.jpg" "/img/album/1987/Schützenfest.jpg" "/img/album/1987/Schützenkönig_1_Vorsitzender.jpg|Schützenkönig & 1. Vorsitzender" >}}
+{{< images "img/album/1987/königsfamilie.jpg" "img/album/1987/Schützenfest.jpg" "img/album/1987/Schützenkönig_1_Vorsitzender.jpg|Schützenkönig & 1. Vorsitzender" >}}
 
 #### Samstag, 19. bis Sonntag, 20. September 1987
 Am 19/20. September 1987 war es dann soweit, der erste Besuch in Pleidelsheim fand statt. Bei diesem Besuch wurde auch ein Wettkampf im Kleinkaliberschießen (50 m) ausgetragen, bei dem Gerhard Bosold den 1. und Hannelore Schneider den 2. Platz belegten.
@@ -172,7 +172,7 @@ Von der Post wurde Ende 2006 im Bürgerhaus Haimbach der neben unseren Räumlich
 Nach Abschluss der Verhandlungen mit den Verantwortlichen der Stadt Fulda konnte am 16.01.2007 mit den Umbauarbeiten begonnen werden. Bereits nach sechsmonatiger Bauzeit mit über 500 Stunden Eigenleistung, mit finanzieller Unterstützung durch die Stadt Fulda und den Landesportbund, 
 konnten die neuen Räume pünktlich zur Wettkampfsaison 2007/2008 bezogen werden. 
 
-{{< images "/img/album/2007/Umbau.jpg" >}}
+{{< images "img/album/2007/Umbau.jpg" >}}
 
 Im sportlichen Bereich nahmen erstmals 2 Altersschützen am Mannschafts- und Pokalschießen in der Disziplin „Luftgewehr-Aufgelegt“ teil.
 
@@ -194,4 +194,4 @@ den „Schützenhochburgen“ Fulda, Großenlüder, Müs und Eichenzell.
 
 Neben den sportlichen Aktivitäten bietet der Verein auch weiterhin zahlreiche gesellige Veranstaltungen. Zum festen Programm gehören: Rosenmontagstreffen, Grillfest am 1. Mai, Oktoberfest  und weitere individuelle Veranstaltungen.
 
-{{< images "/img/album/2009/Fastnacht/IMG_1818.JPG|" "/img/album/2009/Fastnacht/IMG_1849.JPG|" >}}
+{{< images "img/album/2009/Fastnacht/IMG_1818.JPG|" "img/album/2009/Fastnacht/IMG_1849.JPG|" >}}

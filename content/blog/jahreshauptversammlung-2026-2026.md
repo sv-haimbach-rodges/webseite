@@ -2,7 +2,7 @@
 title = 'Jahres-Hauptversammlung 2026'
 date = 2026-02-03T12:00:00+01:00
 draft = false
-banner = "/img/default/logo.png"
+banner = "img/default/logo.png"
 +++
 
 Liebe Mitglieder des Schützenvereins „Gut Schuß Haimbach/Rodges“,

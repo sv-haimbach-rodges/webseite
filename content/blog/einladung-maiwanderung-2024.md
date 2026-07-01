@@ -2,7 +2,7 @@
 title = 'Einladung zur Maiwanderung am 05. Mai 2024'
 date = 2024-04-24T12:00:00+01:00
 draft = false
-banner = "/img/default/landesgartenschau-fd-2023.jpg"
+banner = "img/default/landesgartenschau-fd-2023.jpg"
 banner_attribution = "https://commons.wikimedia.org/wiki/File:Fulda,_Landesgartenschau,_Kulturgarten,_Fr%C3%BChlingsblumen.jpg#file"
 +++
 

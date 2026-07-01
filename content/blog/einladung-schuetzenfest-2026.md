@@ -27,4 +27,4 @@ Für euer leibliches Wohl ist bestens gesorgt: **Ab 12:00 Uhr** werden **frische
 
 <br/>
 
-{{< images "/img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-0.png|Flyer Seite 1" "/img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-1.png|Flyer Seite 2" "/img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-2.png|Flyer Seite 3">}}
+{{< images "img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-0.png|Flyer Seite 1" "img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-1.png|Flyer Seite 2" "img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-2.png|Flyer Seite 3">}}
