@@ -1,7 +1,6 @@
 weight: 1
 title: Königsfamilie 2026-2
 description: |-
-  Nur ein Test
   * Mira Müller (Schützenkönigin)
   * Dirk Müller (1. Ritter)
   * Willi Engel (2. Ritter)
@@ -9,6 +8,5 @@ description: |-
   * Jannes Hartung (Jugendkönig)
   * Jonas Jung (1. Jgd-Ritter)
   * Viola Schwarz (2. Jgd-Ritterin)
-  
 image: img/carousel/koenigsfamilie_2026_small.jpg
 frame: true
