@@ -1,6 +1,6 @@
 +++
 title = "Sveltia Test"
-date = 2026-07-12T08:08:00.000
+date = 2026-06-02T08:08:00.000
 draft = false
 banner = "/img/album/2021/5a.png"
 +++
