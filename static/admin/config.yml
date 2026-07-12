@@ -11,6 +11,8 @@ collections:
   - name: "blog"
     label: "Aktuelles"
     folder: "content/blog"
+    media_folder: "/static/img/album/{{year}}"
+    public_folder: "img/album/{{year}}"
     create: true
     extension: "md"
     format: "toml-frontmatter"
@@ -62,6 +64,8 @@ collections:
   - name: "carousel"
     label: "Startseite Karussell"
     folder: "data/carousel"
+    media_folder: "/static/img/carousel"
+    public_folder: "img/carousel"
     create: true
     extension: "yaml"
     format: "yaml"
