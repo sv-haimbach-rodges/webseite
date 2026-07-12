@@ -64,8 +64,6 @@ collections:
   - name: "carousel"
     label: "Startseite Karussell"
     folder: "data/carousel"
-    media_folder: "/static/img/carousel"
-    public_folder: "img/carousel"
     create: true
     extension: "yaml"
     format: "yaml"
@@ -86,4 +84,4 @@ collections:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Icon (FontAwesome)", name: "icon", widget: "string"}
       - {label: "URL", name: "url", widget: "string", required: false}
-      - {label: "Beschreibung", name: "description", widget: "text"}
+      - {label: "Beschreibung", name: "description", widget: "markdown"}
