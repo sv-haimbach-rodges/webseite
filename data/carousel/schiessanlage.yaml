@@ -1,9 +1,8 @@
 weight: 100
 title: "Digitale Schießanlagen"
 description: >
-  <ul class="list-style-none">
-     <li>Automatische Trefferauswertung</li>
-     <li>Moderne Anzeigedisplays</li>
-   </ul>
+  * Automatische Trefferauswertung
+  * Moderne Anzeigedisplays
+   
 image: "img/album/2022/Schießstand/Schiessstand_10 m.Gewehr.jpg"
 frame: true

@@ -70,7 +70,7 @@ collections:
     fields:
       - {label: "Gewichtung", name: "weight", widget: "number"}
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Beschreibung", name: "description", widget: "text", required: false}
+      - {label: "Beschreibung", name: "description", widget: "markdown", required: false}
       - {label: "Bild", name: "image", widget: "image"}
       - {label: "Rahmen", name: "frame", widget: "boolean", default: false}
   - name: "features"

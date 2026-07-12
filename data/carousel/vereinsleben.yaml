@@ -1,10 +1,9 @@
 weight: 99
 title: "Vereinsleben"
 description: >
-  <ul class="list-style-none">
-     <li>gemütliches Beisammensein</li>
-     <li>gemeinsame Erfolge</li>
-     <li>miteinander Erleben</li>
-  </ul>
+  * gemütliches Beisammensein
+  * gemeinsame Erfolge
+  * miteinander Erleben
+  
 image: "img/album/2024/besuch_proklamation_fd.jpg"
 frame: true
