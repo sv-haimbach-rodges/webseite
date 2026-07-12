@@ -7,17 +7,10 @@ backend:
 media_folder: "static/img"
 public_folder: "img"
 
-media_folders:
-  - label: "Album Bilder"
-    folder: "static/img/album"
-    public_folder: "img/album"
-
 collections:
   - name: "blog"
     label: "Aktuelles"
     folder: "content/blog"
-    media_folder: "/static/img/album/{{year}}"
-    public_folder: "img/album/{{year}}"
     create: true
     extension: "md"
     format: "toml-frontmatter"
