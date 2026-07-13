@@ -7,4 +7,6 @@ banner = "/img/image1.jpeg"
 
 Schützenfest war super!
 
+<br/>
+
 {{< images "img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-0.png|Flyer Seite 1" "img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-1.png|Flyer Seite 2" "img/album/2026/Schützenfest/Flyer_Schuetzenfest_2026-page-2.png|Flyer Seite 3">}}
