@@ -19,6 +19,7 @@ collections:
       - {label: "Datum", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ"}
       - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
       - {label: "Banner Bild", name: "banner", widget: "image", required: false}
+      - {label: "Banner Attribution", name: "banner_attribution", widget: "text", required: false}
       - {label: "Inhalt", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Seiten"
